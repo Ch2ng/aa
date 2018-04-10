@@ -1,0 +1,128 @@
+﻿  源.cpp
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): error C2653: “DLXGenerator”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(32): error C2653: “DLXGenerator”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(32): error C2065: “ColumnHead”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(32): error C2059: 语法错误:“>”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(32): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(32): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(68): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(68): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(68): error C2238: 意外的标记位于“;”之前
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(71): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(71): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(75): error C2653: “DLXNode”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(75): error C2065: “DLXNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(75): error C2065: “tempNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(75): error C2182: “appendLeftNode”: 非法使用“void”类型
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(75): error C2448: “appendLeftNode”: 函数样式初始值设定项类似函数定义
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(80): error C2653: “DLXNode”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(80): error C2065: “DLXNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(80): error C2065: “tempNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(80): error C2182: “appendRightNode”: 非法使用“void”类型
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(80): error C2448: “appendRightNode”: 函数样式初始值设定项类似函数定义
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(85): error C2653: “DLXNode”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(85): error C2065: “DLXNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(85): error C2065: “tempNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(85): error C2182: “appendUpNode”: 非法使用“void”类型
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(85): error C2448: “appendUpNode”: 函数样式初始值设定项类似函数定义
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(90): error C2653: “DLXNode”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(90): error C2065: “DLXNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(90): error C2065: “tempNode”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(90): error C2182: “appendDownNode”: 非法使用“void”类型
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(90): error C2448: “appendDownNode”: 函数样式初始值设定项类似函数定义
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(136): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(136): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(136): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(142): error C3861: “selectColumn”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(143): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(149): error C2065: “solution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(149): error C2228: “.push_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(149): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(152): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(155): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(156): error C2065: “solution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(156): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(157): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(160): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(167): error C2065: “solution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(167): error C2228: “.pop_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(167): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(169): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(175): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(175): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(175): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(177): error C2065: “lastSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(177): error C2228: “.push_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(177): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(177): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(181): error C3861: “selectColumn”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(182): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(185): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(185): error C2228: “.push_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(185): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(188): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(191): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(192): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(192): error C2065: “lastSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(192): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(193): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(196): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(199): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(199): error C2228: “.pop_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(199): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(201): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(205): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(205): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(205): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(208): error C2065: “lastSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(208): error C2228: “.push_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(208): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(208): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(212): error C3861: “selectColumn”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(213): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(216): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(216): error C2228: “.push_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(216): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(219): error C3861: “cover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(222): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(223): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(223): error C2065: “lastSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(223): error C2065: “answerCount”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(223): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(224): error C2065: “depth”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(227): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(230): error C2065: “lastSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(230): error C2228: “.size”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(230): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(230): error C2065: “answerCount”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(234): error C2065: “tempSolution”: 未声明的标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(234): error C2228: “.pop_back”的左边必须有类/结构/联合
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(234): note: 类型是“unknown-type”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(236): error C3861: “uncover”: 找不到标识符
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(241): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(255): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(269): error C2653: “DLXSolver”: 不是类或命名空间名称
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(290): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(290): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(293): error C2872: “vector”: 不明确的符号
+  d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(15): note: 可能是“int vector”
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.10.25017\include\vector(700): note: 或    “std::vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(293): error C2061: 语法错误: 标识符“vector”
+d:\cheng\documents\学习\软件工程基础\个人项目\数独\数独\源.cpp(293): fatal error C1003: 错误计数超过 100；正在停止编译
